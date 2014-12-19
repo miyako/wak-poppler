@@ -5,6 +5,7 @@ Wakanda module to use [Poppler](http://poppler.freedesktop.org).
 
 About
 -----
+* Poppler/0.29.0
 * libjpeg/9a
 * libpng/1.6.15
 * libtiff/4.0.3
