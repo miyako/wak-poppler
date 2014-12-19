@@ -11,3 +11,17 @@ About
 * libtiff/4.0.3
 * libfreetype/2.5.4
 * libfontconfig/2.11.1
+
+Commands
+--------
+* pdfunite
+* pdftotext
+* pdftops
+* pdftoppm
+* pdftohtml
+* pdftocairo
+* pdfseparate
+* pdfinfo
+* pdfimages
+* pdffonts
+* pdfdetach
